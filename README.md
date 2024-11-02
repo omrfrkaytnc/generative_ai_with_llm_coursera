@@ -1,6 +1,8 @@
 # Generative-AI-With-LLMs-by-Coursera
 This repository contains Jupyter Notebooks for labs, along with lecture notes, for the [Generative AI With Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) course, offered by DeepLearning.AI and AWS. The course explores the lifecycle of generative AI models, fine-tuning techniques, reinforcement learning, and more, providing a solid foundation for using LLMs in practical applications.  
 
+My Certificate :
+https://www.coursera.org/account/accomplishments/verify/PMJ1VFW07AVD
 
 ## Week 1
 
